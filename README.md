@@ -89,4 +89,3 @@ After running and reviewing the project, you can describe it as a portfolio proj
 - Defined product requirements, user stories, acceptance criteria, UAT scenarios, and KPIs for lead quality, routing coverage, and exception handling.
 - Created SQL reporting and a dashboard to monitor lead funnel health, data-quality failures, duplicates, and routing outcomes.
 
-Only include measured numerical impact after you run experiments and calculate it from the generated data. Do not claim production deployment or direct experience with Marketo/Adobe unless you have it.
