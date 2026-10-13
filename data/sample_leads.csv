@@ -1,0 +1,21 @@
+record_id,first_name,last_name,email,company,country,job_title,source_campaign,consent_status
+L-1001,Ava,Chen,ava.chen@example.com,CloudNorth,US,Director of IT,Product Demo Webinar,opted_in
+L-1002,Noah,Patel,noah.patel@example.com,BrightPath,GB,Marketing Operations Manager,Marketing Webinar,opted_in
+L-1003,Mia,Garcia,mia.garcia@example.com,Greenfield Manufacturing,US,Operations Lead,Industry Report,legitimate_interest
+L-1004,Ethan,Kim,ethan.kim@example.com,SummitCare,CA,IT Manager,Product Demo,opted_in
+L-1005,Isabella,Reed,not-an-email,BluePeak,US,VP Operations,Product Demo,opted_in
+L-1006,Lucas,Shah,lucas.shah@example.com,,IN,Analyst,Newsletter,opted_in
+L-1007,Sophia,Turner,sophia.turner@example.com,OrbitWorks,AU,Cloud Architect,Cloud Webinar,opted_in
+L-1008,Oliver,Martin,oliver.martin@example.com,CloudNorth,US,IT Director,Product Demo,unknown
+L-1009,Amara,Johnson,amara.johnson@example.com,BrightPath,GB,Program Manager,Customer Story,opted_in
+L-1010,Leo,Wilson,ava.chen@example.com,Greenfield Manufacturing,US,Plant Manager,Industry Report,opted_in
+L-1011,Grace,Lopez,grace.lopez@example.com,UnknownCo,DE,Sales Operations,Product Webinar,opted_in
+L-1012,James,Nguyen,james.nguyen@example.com,OrbitWorks,IN,Data Engineer,Product Demo,opted_in
+L-1013,Chloe,Adams,chloe.adams@example.com,SummitCare,CA,,Newsletter,opted_in
+L-1014,Ben,Carter,ben.carter@example.com,BluePeak,US,Finance Director,Finance Webinar,legitimate_interest
+L-1015,Aria,Brooks,aria.brooks@example.com,CloudNorth,US,IT Manager,Product Demo Webinar,opted_in
+L-1016,Henry,Price,henry.price@example.com,Acme Group,MX,Marketing Lead,Product Demo,opted_in
+L-1017,Lily,Evans,lily.evans@example.com,Greenfield Manufacturing,US,Procurement Manager,Industry Report,opted_in
+L-1018,Daniel,Bell,daniel.bell@example.com,BrightPath,GB,Data Analyst,Marketing Webinar,opted_in
+L-1019,Zoe,Murphy,zoe.murphy@example.com,OrbitWorks,AU,IT Manager,Cloud Webinar,opted_in
+L-1020,Jack,Cook,jack.cook@example.com,CloudNorth,US,CTO,Product Demo,opted_in
