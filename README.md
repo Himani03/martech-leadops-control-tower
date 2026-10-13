@@ -2,7 +2,7 @@
 
 A portfolio project demonstrating how a Data Product Manager can improve B2B marketing lead operations through data quality controls, lead enrichment, scoring, routing, integrations, and measurable operational outcomes.
 
-> Portfolio/demo project using synthetic data. It is not affiliated with or endorsed by ServiceNow. It does not connect to real CRM or marketing automation systems.
+> Portfolio/demo project using synthetic data. It is not affiliated with or endorsed by any company. It does not connect to real CRM or marketing automation systems.
 
 ## Business problem
 Marketing teams lose time and pipeline when lead records arrive incomplete, duplicated, invalid, or without a clear owner. This project models an end-to-end lead operations workflow and makes the process measurable.
